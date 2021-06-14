@@ -1,29 +1,29 @@
-O banco mundial entre muitas outras informações e serviços, esta instituiçãao disponibiliza de forma aberta
-um conjunto de dados estatísticos sobre a evolução de vários indicadores relacionados com
+O banco mundial entre muitas outras informaÃ§Ãµes e serviÃ§os, esta instituiÃ§Ã£ao disponibiliza de forma aberta
+um conjunto de dados estatÃ­sticos sobre a evoluÃ§Ã£o de vÃ¡rios indicadores relacionados com
 o bem estar global.
 
-Estudo da evolução do acesso a redes elétricas pela população mundial é o foco deste trabalho. Os dados
-analisados estão compreendidos entre 1960 e 2016.
+Estudo da evoluÃ§Ã£o do acesso a redes elÃ©tricas pela populaÃ§Ã£o mundial Ã© o foco deste trabalho. Os dados
+analisados estÃ£o compreendidos entre 1960 e 2016.
 
 O projeto a implementar foi o seguinte: 
--Desenhar três estruturas de dados suportadas em abstracc~oes diferentes que
-possam armazenar e manipular a informaçãao disponibilizada. 
--Implementar sobre cada estrutura de dados que definir operações, o mais otimizadas
-possível de: pesquisa, inserção, edição e remoção.
+-Desenhar trÃªs estruturas de dados suportadas em abstracÃ§Ãµes diferentes que
+possam armazenar e manipular a informaÃ§Ã£ao disponibilizada. 
+-Implementar sobre cada estrutura de dados que definir operaÃ§Ãµes, o mais otimizadas
+possÃ­vel de: pesquisa, inserÃ§Ã£o, ediÃ§Ã£o e remoÃ§Ã£o.
 -Desenhar, implementar, executar e analisar um estudo comparativo entre a
 performance de cada uma das estruturas de dados implementadas.
 
-O projeto contém os seguintes ficheiros:
-TreeTree.py (Árvore AVL de Árvores AVL)
-TreeLlist.py (Árvore AVL de Listas ligadas)
-LlistTree.py (Lista ligada de Árvores AVL)
+O projeto contÃ©m os seguintes ficheiros:
+TreeTree.py (Ãrvore AVL de Ãrvores AVL)
+TreeLlist.py (Ãrvore AVL de Listas ligadas)
+LlistTree.py (Lista ligada de Ãrvores AVL)
 
 Menu:
-Opção 1 permite adicionar um país ou valores a países
-Opção 2 permite remover um país ou valores a países
-Opção 3 permite mostrar os valores de um país de um ano específico e de todos ou mostrar todos os valores para um determinado ano.
-Opção 4 permite fechar o programa.
+OpÃ§Ã£o 1 permite adicionar um paÃ­s ou valores a paÃ­ses
+OpÃ§Ã£o 2 permite remover um paÃ­s ou valores a paÃ­ses
+OpÃ§Ã£o 3 permite mostrar os valores de um paÃ­s de um ano especÃ­fico e de todos ou mostrar todos os valores para um determinado ano.
+OpÃ§Ã£o 4 permite fechar o programa.
 
 Desenvolvido por:
 	Bruno Batanete, 2014203839
-	José Ferreira,  2014192844
+	JosÃ© Ferreira,  2014192844
